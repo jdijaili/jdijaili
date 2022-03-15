@@ -1,6 +1,6 @@
 ### Hey there ✨
 
-- 🔭 I’m currently working on adding responsive to all portfolio projects
+- 🔭 I’m currently working on adding responsive design to all portfolio projects
 - 🌱 I’m also grinding data structures and algorithms problems
 - 😄 Pronouns: she/her
 - 📖 Current Read: The Secret Life of Addie LaRue
@@ -31,13 +31,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jdijaili&show_icons=true&hide_border=true" />
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jdijaili&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdijaili" />
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdijaili&theme=tokyonight" />
 
 </details>
