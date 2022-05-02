@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://res.cloudinary.com/jenn/image/upload/v1647323192/IMG_0674-ANIMATION_Original_icm8mf.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on adding responsive design to all portfolio projects
+- 🟣 I’m currently learning Three.js
 - 🌱 I’m also grinding data structures and algorithms problems
 - 😄 Pronouns: she/her
 - 📖 Current Read: The Secret Life of Addie LaRue
